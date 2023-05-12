@@ -1,7 +1,6 @@
 import { React, useRef } from 'react'
 import emailjs from '@emailjs/browser';
-const src = "https://img.freepik.com/free-vector/businessman-with-e-mail-marketing-icons_24877-51328.jpg?t=st=1683812926~exp=1683813526~hmac=31335fa9cc66128bbea62c2983f26633b0d26e09997c3a81284efcb2c0b6426b";
-
+import src from './animate/contactus.gif'
 // export default function Contact() {
 //   return (
 
