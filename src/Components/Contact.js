@@ -21,16 +21,17 @@ export const Contact = () => {
   };
 
   return (
-    <div className="contact-form">
+    <div className="contact-form" id="contact-form">
       <div className="left-contact contact-item">
         <img src={src} alt="" />
       </div>
       <div className="right-contact contact-item">
-        <h3>Ask Your Enquiry : </h3>
+        <h3>Request For Callback: </h3>
         <form ref={form} onSubmit={sendEmail} >
           <input type="text" name="from_name" placeholder='Enter Your Name' />
           <input type="email" name="from_email" placeholder='Enter Your Email :' />
-          <textarea name="message" placeholder='Enter Your query :' />
+          <input type="tel" name="from_phone" placeholder='Enter Your Phone Number :' />
+          {/* <textarea name="message" placeholder='Enter Your query :' /> */}
           <input type="submit" className='submit' value="Submit Now" />
         </form>
       </div>
