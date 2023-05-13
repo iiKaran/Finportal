@@ -28,9 +28,8 @@
 }
 
 .head-2 {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  color: w;
 }
 
 /* General properties   */
@@ -65,6 +64,10 @@
 .head {
   /* border: 2px solid red; */
   opacity: .8;
+}
+.head {
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 .head p {
@@ -208,14 +211,10 @@ header {
   height: 90vh;
 }
 
-.head {
-  font-size: 3rem;
-  font-weight: 600;
-}
 
 .typing {
   padding: 0px 19px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: var(--darkGreen);
   list-style: circle;
   /* list-style: none; */
