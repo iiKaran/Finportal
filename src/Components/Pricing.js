@@ -12,7 +12,7 @@ service :"Capital Gains Income",
 salePrice : "4599",
 cuttedPrice:"5999",
 saved:"23%",
-covers:["Everything in Salary/House Rent Plan","Capital Gains from sale of stocks, mutual funds & property","Gains from Lottery, Gaming or Awards","Withdrawal from PF and bank deposits"]
+covers:["Everything in Salary/House Rent Plan","Capital Gains from sale of stocks, mutual funds & property","Gains from Lottery, Gaming or Awards",]
 },
 {src:"https://assets1.cleartax-cdn.com/cleartax/images/1630533061_group3791.png",
 service :"Foreign Income", 
