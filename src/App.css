@@ -27,6 +27,12 @@
   padding: 12px;
 }
 
+.head-2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: w;
+}
+
 /* General properties   */
 .center {}
 
@@ -209,7 +215,7 @@ header {
 
 .typing {
   padding: 0px 19px;
-  font-size: 2rem;
+  font-size: 1.2rem;
   color: var(--darkGreen);
   list-style: circle;
   /* list-style: none; */
@@ -229,16 +235,6 @@ header {
   width: 80px;
 
 }
-
-.review {
-  font-size: 1rem;
-  font-weight: 700;
-}
-
-.review-img {
-  margin-bottom: 24px;
-}
-
 .right-head {
   display: flex;
   align-items: center;
@@ -415,12 +411,6 @@ header {
 .action .feature-item .row span {
   color: var(--primary);
   font-weight: 600
-}
-
-.head-2 {
-  font-size: 2rem;
-  font-weight: 600;
-  color: w;
 }
 
 
